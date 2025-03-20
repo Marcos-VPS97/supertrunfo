@@ -20,7 +20,7 @@ O código segue uma estrutura simples, sem laços ou estruturas condicionais, ap
 ## 📥 Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/super-trunfo-cidades.git
+   git clone https://github.com/Marcos-VPS97/super-trunfo-cidades.git
    ```
 2. Compile o código:
    ```sh

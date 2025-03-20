@@ -31,9 +31,9 @@ O código segue uma estrutura simples, sem laços ou estruturas condicionais, ap
    ./super_trunfo
    ```
 4. Insira os dados conforme solicitado e veja a exibição das cartas.
-```
-## 📸 Exemplo de Saída
 
+## 📸 Exemplo de Saída
+```
 Cadastro Da Primeira Carta:
 Estado (A-H): A
 Codigo Da Carta (ex: A01): A02
